@@ -1,0 +1,15 @@
+2015-05-17 14:06:33 - PHP Warning:  mail(): Failed to connect to mailserver at &quot;localhost&quot; port 25, verify your &quot;SMTP&quot; and &quot;smtp_port&quot; setting in php.ini or use ini_set() in D:\wampp\wamp\www\mena360\opencart\upload\system\library\mail.php on line 162
+2015-05-17 14:49:55 - PHP Notice:  Undefined variable: information_status in D:\wampp\wamp\www\mena360\opencart\upload\admin\view\template\module\displayhtml.tpl on line 32
+2015-05-17 15:06:45 - PHP Notice:  Undefined variable: information_status in D:\wampp\wamp\www\mena360\opencart\upload\admin\view\template\module\displayhtml.tpl on line 32
+2015-05-17 15:07:20 - PHP Notice:  Undefined variable: information_status in D:\wampp\wamp\www\mena360\opencart\upload\admin\view\template\module\displayhtml.tpl on line 32
+2015-05-18 11:34:43 - PHP Notice:  Undefined variable: information_status in G:\wamp\wamp\www\mena360\opencart\upload\admin\view\template\module\displayhtml.tpl on line 32
+2015-05-18 12:43:00 - PHP Notice:  Undefined variable: information_status in G:\wamp\wamp\www\mena360\opencart\upload\admin\view\template\module\displayhtml.tpl on line 32
+2015-05-18 13:15:53 - PHP Notice:  Undefined variable: information_status in G:\wamp\wamp\www\mena360\opencart\upload\admin\view\template\module\displayhtml.tpl on line 32
+2015-05-18 13:35:37 - PHP Notice:  Undefined variable: information_status in G:\wamp\wamp\www\mena360\opencart\upload\admin\view\template\module\displayhtml.tpl on line 190
+2015-05-18 13:41:09 - PHP Notice:  Undefined variable: information_status in G:\wamp\wamp\www\mena360\opencart\upload\admin\view\template\module\displayhtml.tpl on line 190
+2015-05-18 14:16:01 - PHP Notice:  Undefined variable: information_status in G:\wamp\wamp\www\mena360\opencart\upload\admin\view\template\module\displayhtml.tpl on line 190
+2015-05-19 15:47:40 - PHP Notice:  Error: Could not load model G:/wamp/wamp/www/mena360/opencart/upload/admin/model/catalog/feedback.php! in G:\wamp\wamp\www\mena360\opencart\upload\system\engine\loader.php on line 24
+2015-05-20 8:10:12 - PHP Notice:  Undefined index: information_id in G:\wamp\wamp\www\mena360\opencart\upload\admin\view\template\feedback\feedback_list.tpl on line 55
+2015-05-20 8:10:12 - PHP Notice:  Undefined index: information_id in G:\wamp\wamp\www\mena360\opencart\upload\admin\view\template\feedback\feedback_list.tpl on line 58
+2015-05-20 8:10:12 - PHP Notice:  Undefined index: title in G:\wamp\wamp\www\mena360\opencart\upload\admin\view\template\feedback\feedback_list.tpl on line 60
+2015-05-20 8:10:12 - PHP Notice:  Undefined index: sort_order in G:\wamp\wamp\www\mena360\opencart\upload\admin\view\template\feedback\feedback_list.tpl on line 61
