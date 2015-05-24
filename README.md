@@ -1,3 +1,4 @@
+[![Stories in Ready](https://badge.waffle.io/hfetchr/opencart.png?label=ready&title=Ready)](https://waffle.io/hfetchr/opencart)
 # OpenCart
 
 
